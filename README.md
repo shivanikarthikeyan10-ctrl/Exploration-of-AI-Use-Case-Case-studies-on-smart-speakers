@@ -29,6 +29,11 @@ The basic working process of an AI-enabled smart speaker is:
 
 **Example:** When a user says, "Play music," the smart speaker recognizes the command, identifies the user's intention, starts playing music, and responds through its speaker.
 
+# SAMPLE IMAGE
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/725b53ab-825a-4d8c-99f2-f9a76fc0f69f" />
+
+
 # RESULT
 
 The study of AI-enabled smart speakers explains how Artificial Intelligence, Speech Recognition, Natural Language Processing, and Text-to-Speech technologies work together to enable voice-based interaction. Smart speakers can recognize user commands, understand their intentions, perform requested actions, and provide spoken responses. This demonstrates the practical application of AI in home automation, entertainment, and personal assistance.
